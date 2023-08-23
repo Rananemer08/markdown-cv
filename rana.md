@@ -147,8 +147,4 @@ and Bootstrap to showcase Rona Bakery\'s
 >
 > • Implemented the Windows form application using C#
 >
-> 3 \| P a g e
->
-> 4 \| P a g e
->
-> 5 \| P a g e
+> 
